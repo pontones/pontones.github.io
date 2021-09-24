@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pontone note</title><link href="https://pontones.github.io/" rel="alternate"></link><link href="https://pontones.github.io/feeds/all.atom.xml" rel="self"></link><id>https://pontones.github.io/</id><updated>2021-09-24T23:00:00+09:00</updated><subtitle></subtitle><entry><title>My First Post</title><link href="https://pontones.github.io/the-first.html" rel="alternate"></link><published>2021-09-24T23:00:00+09:00</published><updated>2021-09-24T23:00:00+09:00</updated><author><name>pontone</name></author><id>tag:pontones.github.io,2021-09-24:/the-first.html</id><content type="html">&lt;h1&gt;Start My GitHub life&lt;/h1&gt;
+&lt;p&gt;GitHub活用はじめました。
+KaggleやCollaboratelyも活用しながらデータサイエンスを学んでいきたいと思います。&lt;/p&gt;</content><category term="Note"></category></entry></feed>
